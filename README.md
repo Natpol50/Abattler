@@ -1,6 +1,6 @@
-# RPG Battle Game
+# Abattler
 
-A text-based RPG combat game written in C++ featuring an interactive battle system with elements, status effects, and math-based blocking mechanics.
+Asha's (smol) battler's a text-based RPG combat game written in C++ featuring an interactive battle system with elements, status effects, and math-based blocking mechanics.
 
 ## 🎮 Game Features
 
