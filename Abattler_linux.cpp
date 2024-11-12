@@ -8,7 +8,6 @@
 #include <map>
 #include <random>
 #include <iomanip>
-#include <windows.h>
 
 using namespace std;
 
@@ -599,7 +598,6 @@ void displayTutorial() {
 }
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
     srand(time(nullptr));
     clearScreen();
     displayGameTitle();
